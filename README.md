@@ -1,2 +1,4 @@
-# fastapi-demo
-Fast API (Python) Demo
+# Fast API Demo
+
+### Run Command
+> npm run server
